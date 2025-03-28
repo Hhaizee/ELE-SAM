@@ -83,9 +83,9 @@ The pre-trained models in ELE-40K dataset are available.
 
 Evaluation of ELE-SAM on ELE-40K dataset and HQSeg-44K dataset with others models:
 
-![image-20250312205620873](.\figure\tab-ele40k.png)                                                                 							**Tabel 1. Result on ELE-40K Dataset** 
+![image-20250312205620873](./figure/tab-ele40k.png)                                                                 							**Tabel 1. Result on ELE-40K Dataset** 
 
-![image-20250312205456346](.\figure\tab-hqseg.png)
+![image-20250312205456346](./figure/tab-hqseg.png)
 
 ​                                                          **Tabel 2. Result on HQSeg-44K Dataset** 
 
