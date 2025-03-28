@@ -20,7 +20,7 @@ Power transmission corridor hazard segmentation (PTCHS) aims to separate transmi
 
 ## Dataset
 
-- [ELE-40K Dataset](https://pan.baidu.com/s/1-0v0G2HpX0K5-uKjTjLLQQ) 
+- [ELE-40K Dataset](https://pan.baidu.com/s/1-0v0G2HpX0K5-uKjTjLLQQ) (39mv)
 - [HQSeg-44K Dataset](https://huggingface.co/sam-hq-team/sam-hq-training/tree/main/data) 
 
 - Dataset structure
